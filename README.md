@@ -40,10 +40,8 @@ Before installing any MCP server, ensure you have:
 
 ## Available MCP Servers
 
-<details> ### 🟢 Supabase MCP
-
-
-<summary><strong>Connect Claude Code to your Supabase projects</strong></summary>
+<details>  
+<summary><strong>🟢 Supabase MCP</strong></summary>
 
 The Supabase MCP server allows Claude Code to interact with your Supabase database, execute queries, and manage your project data.
 
