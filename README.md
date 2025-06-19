@@ -23,7 +23,6 @@
 - [Available MCP Servers](#available-mcp-servers)
   - [Supabase MCP](#-supabase-mcp)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 
 ## Overview
 
